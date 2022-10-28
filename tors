@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>gacha_attacker</title>
+<!-- link rel="stylesheet" href="style.css" -->
+<style>
+  button {
+    font-family: serif;
+  }
+</style>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+</head>
+
+<body>
+
+<small><a href="/">back to the main page</a></small>
+<h1>tutorial & summary</h1>
+<hr>
+<h3>basic summary and stuff</h3>
+<p>
+In gacha_attacker, you defeat enemies and get new characters. To defeat enemies, you launch bullets by pressing SPACE.
+When an enemy’s health is 0, it’s dead, and you get a point!
+<br><br>
+You can spend these points in GACHA to get new characters. Press GACHA to open the GACHA menu, when it’s unlocked! Each
+character has new powers, and a different rarity (3-5, 5 being the rarest). When you get a character multiple times, it
+gets BOOSTed! The character gets new powers each time it’s BOOSTed.
+</p>
+<img src="/gasummphoto.png"></img>
+</body>
+
+</html>
